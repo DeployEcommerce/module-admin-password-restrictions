@@ -1,7 +1,7 @@
 {
   "name": "deployecommerce/module-admin-password-restrictions",
-  "version": "0.0.1",
-  "description": "N/A",
+  "version": "0.0.2",
+  "description": "This extension adds a configuration option to restrict the use of certain length passwords in the Magento 2 backend.",
   "type": "magento2-module",
   "require": {
     "magento/framework": "*",
